@@ -1,7 +1,7 @@
--About
+- About
 function this for detect text word or sentence  in JavaScript and you can use in react same.
 
--How to use 
+- How to use 
 
 ( text , detect , type )
 
